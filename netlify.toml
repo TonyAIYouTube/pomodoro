@@ -1,0 +1,4 @@
+# Netlify configuration for Pomodoro Timer
+[build]
+  publish = "."
+  # No build command is required for a static site consisting of plain HTML/CSS/JS

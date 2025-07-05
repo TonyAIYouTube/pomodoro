@@ -1,0 +1,11 @@
+# Ignore OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Ignore dependency directories (not used here but for future)
+node_modules/
+
+# Ignore build outputs (none for static site, but keep example)
+public/
